@@ -70,12 +70,5 @@ Tableau | Power BI | MS Excel | Alteryx | Figma
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinkumar&show_icons=true&theme=vue-dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar&layout=compact&theme=vue-dark)
-
----
 
 *"Turning data into decisions, insights into impact"* 🎯
